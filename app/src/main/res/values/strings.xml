@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DynnamicCalculator</string>
+    <string name="ac_text">AC</string>
+    <string name="multiply_button">×</string>
+    <string name="equals">=</string>
+    <string name="plus_minus_text">±</string>
+    <string name="modulus_text">%</string>
+    <string name="division_text">÷</string>
+    <string name="sqrt_text"><sup>2</sup>√x</string>
+    <string name="sin_text">sin</string>
+    <string name="log_text">log<sub>10</sub></string>
+    <string name="cos_text">cos</string>
+    <string name="tan_text">tan</string>
+</resources>
